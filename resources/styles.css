@@ -1,0 +1,49 @@
+body {
+    background-color : gainsboro
+}
+
+.jumbotron{
+    background-color: ghostwhite;
+}
+b {
+    color: navy;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+h5 {
+    color: navy;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h6 {
+    color: navy;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    color: navy; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+footer {
+    background-color: ghostwhite;
+}
+
+
+
+
